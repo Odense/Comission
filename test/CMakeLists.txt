@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.5.1)
-project(a.out C)
-include_directories(include)
-file(GLOB SOURCES "src/*.c")
-add_executable(${PROJECT_NAME} main.c ${SOURCES})
-SET(CMAKE_C_FLAGS "-std=c11 -Wall -pedantic-errors -Werror -Wno-unused")
