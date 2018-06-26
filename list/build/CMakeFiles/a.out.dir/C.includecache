@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/list.h
+stdlib.h
+-
+stdbool.h
+-
+
+/home/ivan/Рабочий стол/dynamic_list/main.c
+list.h
+/home/ivan/Рабочий стол/dynamic_list/list.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+
+/home/ivan/Рабочий стол/dynamic_list/src/list.c
+list.h
+/home/ivan/Рабочий стол/dynamic_list/src/list.h
+stdlib.h
+-
+assert.h
+-
+stdio.h
+-
+

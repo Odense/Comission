@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/queue.h
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+stdbool.h
+-
+
+/home/ivan/Рабочий стол/queue/main.c
+queue.h
+/home/ivan/Рабочий стол/queue/queue.h
+time.h
+-
+stdio.h
+-
+
+/home/ivan/Рабочий стол/queue/src/queue.c
+queue.h
+/home/ivan/Рабочий стол/queue/src/queue.h
+assert.h
+-
+

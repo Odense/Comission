@@ -1,0 +1,3 @@
+/home/ivan/Рабочий стол/stack/build/CMakeFiles/edit_cache.dir
+/home/ivan/Рабочий стол/stack/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/Рабочий стол/stack/build/CMakeFiles/a.out.dir

@@ -1,0 +1,3 @@
+/home/ivan/Рабочий стол/queue/build/CMakeFiles/edit_cache.dir
+/home/ivan/Рабочий стол/queue/build/CMakeFiles/rebuild_cache.dir
+/home/ivan/Рабочий стол/queue/build/CMakeFiles/a.out.dir
