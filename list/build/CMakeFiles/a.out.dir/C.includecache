@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -12,9 +12,9 @@ stdlib.h
 stdbool.h
 -
 
-/home/ivan/Рабочий стол/dynamic_list/main.c
+/home/traumgedanken/Comission/list/main.c
 list.h
-/home/ivan/Рабочий стол/dynamic_list/list.h
+/home/traumgedanken/Comission/list/list.h
 stdlib.h
 -
 stdio.h
@@ -22,9 +22,9 @@ stdio.h
 time.h
 -
 
-/home/ivan/Рабочий стол/dynamic_list/src/list.c
+/home/traumgedanken/Comission/list/src/list.c
 list.h
-/home/ivan/Рабочий стол/dynamic_list/src/list.h
+/home/traumgedanken/Comission/list/src/list.h
 stdlib.h
 -
 assert.h

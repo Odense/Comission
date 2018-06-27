@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/ivan/Рабочий стол/dynamic_list/main.c" "/home/ivan/Рабочий стол/dynamic_list/build/CMakeFiles/a.out.dir/main.c.o"
-  "/home/ivan/Рабочий стол/dynamic_list/src/list.c" "/home/ivan/Рабочий стол/dynamic_list/build/CMakeFiles/a.out.dir/src/list.c.o"
+  "/home/traumgedanken/Comission/list/main.c" "/home/traumgedanken/Comission/list/build/CMakeFiles/a.out.dir/main.c.o"
+  "/home/traumgedanken/Comission/list/src/list.c" "/home/traumgedanken/Comission/list/build/CMakeFiles/a.out.dir/src/list.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ivan/Рабочий стол/bstree
+# Install script for directory: /home/traumgedanken/Comission/bstree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ivan/Рабочий стол/bstree/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/traumgedanken/Comission/bstree/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

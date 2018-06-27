@@ -97,3 +97,5 @@ CMakeLists.txt.user*
 
 #build folders
 build*
+
+.vscode

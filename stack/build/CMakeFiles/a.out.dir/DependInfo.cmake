@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/ivan/Рабочий стол/stack/main.c" "/home/ivan/Рабочий стол/stack/build/CMakeFiles/a.out.dir/main.c.o"
-  "/home/ivan/Рабочий стол/stack/src/list.c" "/home/ivan/Рабочий стол/stack/build/CMakeFiles/a.out.dir/src/list.c.o"
-  "/home/ivan/Рабочий стол/stack/src/stack.c" "/home/ivan/Рабочий стол/stack/build/CMakeFiles/a.out.dir/src/stack.c.o"
+  "/home/traumgedanken/Comission/stack/main.c" "/home/traumgedanken/Comission/stack/build/CMakeFiles/a.out.dir/main.c.o"
+  "/home/traumgedanken/Comission/stack/src/list.c" "/home/traumgedanken/Comission/stack/build/CMakeFiles/a.out.dir/src/list.c.o"
+  "/home/traumgedanken/Comission/stack/src/stack.c" "/home/traumgedanken/Comission/stack/build/CMakeFiles/a.out.dir/src/stack.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,1 +1,1 @@
-/usr/bin/cc  -std=c11 -Wall -pedantic-errors -Werror -Wno-unused   CMakeFiles/a.out.dir/main.c.o CMakeFiles/a.out.dir/src/list.c.o CMakeFiles/a.out.dir/src/stack.c.o  -o a.out 
+/usr/bin/cc -std=c11 -Wall -pedantic-errors -Werror -Wno-unused   CMakeFiles/a.out.dir/main.c.o CMakeFiles/a.out.dir/src/list.c.o CMakeFiles/a.out.dir/src/stack.c.o  -o a.out 

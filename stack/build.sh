@@ -3,4 +3,5 @@ mkdir build
 cd build
 cmake ..
 make
-./a.out
+cd ..
+./build/a.out

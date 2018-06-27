@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -16,17 +16,17 @@ limits.h
 stdbool.h
 -
 
-/home/ivan/Рабочий стол/queue/main.c
+/home/traumgedanken/Comission/queue/main.c
 queue.h
-/home/ivan/Рабочий стол/queue/queue.h
+/home/traumgedanken/Comission/queue/queue.h
 time.h
 -
 stdio.h
 -
 
-/home/ivan/Рабочий стол/queue/src/queue.c
+/home/traumgedanken/Comission/queue/src/queue.c
 queue.h
-/home/ivan/Рабочий стол/queue/src/queue.h
+/home/traumgedanken/Comission/queue/src/queue.h
 assert.h
 -
 

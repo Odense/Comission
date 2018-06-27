@@ -1,4 +1,4 @@
-# Install script for directory: /home/ivan/Рабочий стол/dynamic_list
+# Install script for directory: /home/traumgedanken/Comission/list
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ivan/Рабочий стол/dynamic_list/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/traumgedanken/Comission/list/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

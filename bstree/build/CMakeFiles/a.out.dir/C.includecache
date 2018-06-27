@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -14,11 +14,11 @@ stdlib.h
 stdio.h
 -
 
-/home/ivan/Рабочий стол/bstree/main.c
+/home/traumgedanken/Comission/bstree/main.c
 bstree.h
-/home/ivan/Рабочий стол/bstree/bstree.h
+/home/traumgedanken/Comission/bstree/bstree.h
 bintree.h
-/home/ivan/Рабочий стол/bstree/bintree.h
+/home/traumgedanken/Comission/bstree/bintree.h
 stdlib.h
 -
 stdio.h
@@ -26,19 +26,19 @@ stdio.h
 time.h
 -
 
-/home/ivan/Рабочий стол/bstree/src/bintree.c
+/home/traumgedanken/Comission/bstree/src/bintree.c
 bintree.h
-/home/ivan/Рабочий стол/bstree/src/bintree.h
+/home/traumgedanken/Comission/bstree/src/bintree.h
 stdlib.h
 -
 stdio.h
 -
 
-/home/ivan/Рабочий стол/bstree/src/bstree.c
+/home/traumgedanken/Comission/bstree/src/bstree.c
 bstree.h
-/home/ivan/Рабочий стол/bstree/src/bstree.h
+/home/traumgedanken/Comission/bstree/src/bstree.h
 bintree.h
-/home/ivan/Рабочий стол/bstree/src/bintree.h
+/home/traumgedanken/Comission/bstree/src/bintree.h
 stdbool.h
 -
 stdio.h

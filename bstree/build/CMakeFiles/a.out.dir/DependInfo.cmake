@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/ivan/Рабочий стол/bstree/main.c" "/home/ivan/Рабочий стол/bstree/build/CMakeFiles/a.out.dir/main.c.o"
-  "/home/ivan/Рабочий стол/bstree/src/bintree.c" "/home/ivan/Рабочий стол/bstree/build/CMakeFiles/a.out.dir/src/bintree.c.o"
-  "/home/ivan/Рабочий стол/bstree/src/bstree.c" "/home/ivan/Рабочий стол/bstree/build/CMakeFiles/a.out.dir/src/bstree.c.o"
+  "/home/traumgedanken/Comission/bstree/main.c" "/home/traumgedanken/Comission/bstree/build/CMakeFiles/a.out.dir/main.c.o"
+  "/home/traumgedanken/Comission/bstree/src/bintree.c" "/home/traumgedanken/Comission/bstree/build/CMakeFiles/a.out.dir/src/bintree.c.o"
+  "/home/traumgedanken/Comission/bstree/src/bstree.c" "/home/traumgedanken/Comission/bstree/build/CMakeFiles/a.out.dir/src/bstree.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
