@@ -1,3 +1,0 @@
-/home/traumgedanken/Comission/bstree/build/CMakeFiles/rebuild_cache.dir
-/home/traumgedanken/Comission/bstree/build/CMakeFiles/a.out.dir
-/home/traumgedanken/Comission/bstree/build/CMakeFiles/edit_cache.dir
